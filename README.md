@@ -4,7 +4,7 @@ What does sound look like?
 
 The waveform in an audio editor is a poor answer. It's a wiggly line, and it tells you almost nothing about what you're hearing. Your ear does something smarter. It splits the sound into frequencies and responds to how much of each one is there right now.
 
-This page does the same thing a few dozen times a second, then draws with the result. Bass pushes particles around. Treble makes the lines brighter. A sudden onset sends a ring outward. It's one HTML file, and your audio never leaves your browser.
+This page does the same thing a few dozen times a second, then draws with the result. Bass pushes particles around. Treble makes the lines brighter. A sudden onset sends a ring outward. Your audio file is only analyzed in real-time and does not leave the browser.
 
 ## Try it
 
